@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+GRADLE_OPTS=""
+exec gradle "$@"
